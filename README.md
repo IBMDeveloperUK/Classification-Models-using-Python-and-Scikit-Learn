@@ -30,13 +30,14 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 ### 1. Create a new Project
 
 - You should now be in Watson Studio.
+- 
 - Click on the Projects option to create a New project. 
 
 ![](https://github.com/YaminiRao/Data-Visualisation-with-Python/blob/master/Images/Watson_Studio.png)
 
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
 
-![](Images/COS.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/COS.png)
 
 - click `Create`.  
 
