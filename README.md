@@ -1,6 +1,6 @@
 # Classification-Models-using-Python-and-Scikit-Learn
 
-In this tutorial, we describe the basics of solving a classification-based machine learning problem, and do a comparative study of some of the popular algorithms.
+In this tutorial, we describe the basics of solving a classification-based machine learning problem, and do a comparative study of two popular algorithms.
 
 ## Getting Started with Jupyter Notebooks
 
@@ -49,3 +49,5 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 -  The notebook will load. 
  
 <b> You are now ready to follow along with the workshop in the notebook! </b>
+
+## For a comparative study of some of the current most popular algorithms Please refer to this ![tutorial](https://developer.ibm.com/tutorials/learn-classification-algorithms-using-python-and-scikit-learn/)
