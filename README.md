@@ -50,4 +50,4 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
  
 <b> You are now ready to follow along with the workshop in the notebook! </b>
 
-## For a comparative study of some of the current most popular algorithms Please refer to this ![tutorial](https://developer.ibm.com/tutorials/learn-classification-algorithms-using-python-and-scikit-learn/)
+## For a comparative study of some of the current most popular algorithms Please refer to this ![tutorial] (https://developer.ibm.com/tutorials/learn-classification-algorithms-using-python-and-scikit-learn/)
